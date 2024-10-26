@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aquamarinum&label=Profile%20views&color=0e75b6&style=flat" alt="aquamarinum" /> </p>
 
-<p align="left">Frontend Developer based in Minsk, Belarus. Specialized on creating interactive interfaces for modern web
-applications using Javascript, Typescript, React, React Native and Redux. Possess a confident knowledge of Computer Science, Databases, CI&CD and GIT. Pursuing bachelor degree in Information Technologies and Data Processing - BSUIR. Always love coming up with unusual ideas and making them come true. Not afraid of difficulties and calmly take on complex and responsible tasks.</p>
+<p align="left">Fullstack Developer. Specialized on creating interactive interfaces and designing high-load business logic for modern web
+applications using Javascript, Typescript, Python, React, and Redux. Possess a confident knowledge of Computer Science, Databases, CI&CD and GIT. Pursuing bachelor degree in Information Technologies and Data Processing. Always love coming up with unusual ideas and making them come true. Not afraid of difficulties and calmly take on complex and responsible tasks.</p>
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
